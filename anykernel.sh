@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Raven kernel by Kyozune
+kernel.string=RavenKernel by Raven
 do.devicecheck=1
 no_magisk_check=1
 do.modules=0
